@@ -6,7 +6,7 @@
 * 5.) Space Shooter
 * 6.) Not Osu
 * 7.) Click Spammer
-* 8.) Grid Roguelike
+* 8.) Grid Roguelike --> Finished
 * 9.) Dot Collector
 * 10.) Ball Catcher
 * 11.) Pattern Memory
